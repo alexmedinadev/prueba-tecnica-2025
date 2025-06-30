@@ -39,7 +39,7 @@ La evaluación busca observar:
 
 ### Base de Datos
 
-* SQL Server (se entregará un backup `.bak` base)
+* SQL Server (se entregará un script `.sql` base)
 * Puedes **crear tablas adicionales** si las consideras necesarias
 * Puedes y debes **crear procedimientos almacenados** si aplican
 
