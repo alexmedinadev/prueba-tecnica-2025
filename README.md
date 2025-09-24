@@ -24,7 +24,7 @@ La evaluación busca observar:
 
 ## 📦 Requisitos Técnicos
 ### Frontend 
-* Razor Pages (.NET 8)
+* Razor / Blazor  (.NET 8)
 * Cubrir los módulos Pacientes y Doctores consumiendo la API protegida por API Key.
 * CRUD completo para ambos modulos.
 
