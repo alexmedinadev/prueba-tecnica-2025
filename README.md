@@ -3,7 +3,7 @@
 ### ⏱ Duración:
 
 * **2 días para desarrollo**
-* **1 día adicional para entrega, revisión y presentación**
+
 
 ---
 
